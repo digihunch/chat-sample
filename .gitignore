@@ -1,2 +1,7 @@
 nginx/certs/**
 data/**
+
+# Environment files
+.env
+.env.local
+.env.*.local
